@@ -8,9 +8,9 @@
 
 🚀 Next Steps 
 
-Add NLP analysis on show titles and descriptions
-Integrate Tableau/Power BI dashboards
-Compare with Amazon Prime or Disney+ datasets
+- Add NLP analysis on show titles and descriptions
+- Integrate Tableau/Power BI dashboards
+- Compare with Amazon Prime or Disney+ datasets
 
 👤 About Me
 
